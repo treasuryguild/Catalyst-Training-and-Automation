@@ -1,6 +1,6 @@
 # Training and Automation
 
-- [Transaction Forms](https://github.com/treasuryguild/Cardano4Climate/issues/new/choose)
+- [Transaction Forms](https://github.com/treasuryguild/Training-and-Automation/issues/new/choose)
 
 Fund 6 funded proposals (Ideascale links)
 
