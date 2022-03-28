@@ -53,6 +53,8 @@ body:
         - Continuous Integration Development
         - Documentation and presentation
         - Marketing
+        - Workshops
+        - Youtube
     validations:
       required: true
   - type: textarea
