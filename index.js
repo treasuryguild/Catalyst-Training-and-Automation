@@ -17,11 +17,11 @@ function getValue(name){
     function ideascaleLink(pool) {
       var iLink = "";
       switch(pool) {
-        case 'Cardano4Climate Community Events':
-          iLink = "https://cardano.ideascale.com/c/idea/384076";
+        case 'Open Source Training':
+          iLink = "https://cardano.ideascale.com/c/idea/368678";
           break;
-        case 'Cardano4Climate Community Hub':
-          iLink = "https://cardano.ideascale.com/c/idea/384081";
+        case 'Distributed Auditability':
+          iLink = "https://cardano.ideascale.com/c/idea/366707";
           break;
         default:
           iLink = "";
@@ -35,7 +35,7 @@ function getValue(name){
     let fileText = `{
   "id" : "${new Date().getTime().toString()}",
   "date": "${new Date().toUTCString()}",
-  "project": "Cardano4Climate",
+  "project": "Training and Automation",
   "pool": "${pool}",
   "ideascale": "${ideascaleLink(pool)}",
   "budget": "${budgetB}",
@@ -54,11 +54,11 @@ function getValue(name){
     function githubQueryLink(pool) {
       var answer = "";
       switch(pool) {
-        case 'Cardano4Climate Community Events':
-          answer = "Fund7/Cardano4Climate-Community-Events/";
+        case 'Open Source Training':
+          answer = "Fund6/Open-Source-Training/";
           break;
-        case 'Cardano4Climate Community Hub':
-          answer = "Fund7/Cardano4Climate-Community-Hub/";
+        case 'Distributed Auditability':
+          answer = "Fund6/Distributed-Auditability/";
           break;
         default:
           answer = "";
@@ -73,26 +73,20 @@ function getValue(name){
         case 'Incoming IOG':
           answer = "Incoming-IOG/";
           break;
-        case 'Remuneration (3 UBI)':
-          answer = "Remuneration-3xUBI/";
+        case 'Continuous Integration Development':
+          answer = "Continuous-Integration-Development/";
           break;
-        case 'Subscriptions & webhosting':
-          answer = "Subscriptions-&-webhosting/";
+        case 'Documentation and presentation':
+          answer = "Documentation-and-presentation/";
           break;
-        case 'Event Incentives & C4C Veritree contribution':
-          answer = "Event-Incentives-&-C4C-Veritree-contribution/";
+        case 'Marketing':
+          answer = "Marketing/";
           break;
-        case 'Seed fund for C4C determined project':
-          answer = "Seed-fund-for-C4C-determined-project/";
+        case 'Workshops':
+          answer = "Workshops/";
           break;
-        case 'Weekly meeting':
-          answer = "Weekly-meeting/";
-          break;
-        case 'Monthly event':
-          answer = "Monthly-event/";
-          break;
-        case 'Event Remuneration':
-          answer = "Event-Remuneration/";
+        case 'Youtube':
+          answer = "Youtube/";
           break;
         default:
           answer = "";
@@ -101,6 +95,6 @@ function getValue(name){
       return answer;
     }
     //Open in a new tab
-  window.open("https://github.com/treasuryguild/Cardano4Climate/new/main/Transactions/" + githubQueryLink(pool) + githubQueryLink2(budgetB) + "new?value=" + encodedFileText +"&filename=" + filename);
+  window.open("https://github.com/treasuryguild/Training-and-Automation/new/main/Transactions/" + githubQueryLink(pool) + githubQueryLink2(budgetB) + "new?value=" + encodedFileText +"&filename=" + filename);
     
   }
