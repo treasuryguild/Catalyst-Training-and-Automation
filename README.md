@@ -4,5 +4,5 @@ Welcome to the Community Governance Treasury GitBook. Here you will find the cur
 
 ## Menu
 
-* Balances
-* Transactions
+* [Balances](balances.md)
+* [Transactions](transactions/)
