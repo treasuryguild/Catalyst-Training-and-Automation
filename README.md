@@ -1,3 +1,7 @@
+---
+description: https://quality-assurance-dao.gitbook.io/training-and-automation/
+---
+
 # Training and Automation
 
 Welcome to the Community Governance Treasury GitBook. Here you will find the current state of Community Governance related funded proposals. You can view transactions, balances and more to come...
