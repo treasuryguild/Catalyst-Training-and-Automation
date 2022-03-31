@@ -73,6 +73,9 @@ function getValue(name){
         case 'Incoming IOG':
           answer = "Incoming-IOG/";
           break;
+        case 'Test Transaction':
+          answer = "Test-Transaction/";
+          break;
         case 'Continuous Integration Development':
           answer = "Continuous-Integration-Development/";
           break;
