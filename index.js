@@ -76,6 +76,9 @@ function getValue(name){
         case 'Test Transaction':
           answer = "Test-Transaction/";
           break;
+        case 'Stake Pool':
+          answer = "Stake-Pool/";
+          break;
         case 'Continuous Integration Development':
           answer = "Continuous-Integration-Development/";
           break;
