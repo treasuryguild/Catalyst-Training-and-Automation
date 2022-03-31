@@ -50,6 +50,7 @@ body:
       description: Please select the budget item.
       options:
         - Incoming IOG
+        - Stake Pool
         - Test Transaction
         - Continuous Integration Development
         - Continuous Integration Deployment
