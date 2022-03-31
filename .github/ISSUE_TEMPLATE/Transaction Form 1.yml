@@ -50,6 +50,7 @@ body:
       description: Please select the budget item.
       options:
         - Incoming IOG
+        - Test Transaction
         - Continuous Integration Development
         - Documentation and presentation
         - Marketing
