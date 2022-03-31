@@ -79,6 +79,9 @@ function getValue(name){
         case 'Continuous Integration Development':
           answer = "Continuous-Integration-Development/";
           break;
+        case 'Continuous Integration Deployment':
+          answer = "Continuous-Integration-Deployment/";
+          break;
         case 'Documentation and presentation':
           answer = "Documentation-and-presentation/";
           break;
