@@ -9,3 +9,4 @@
   * [Fund 8](transactions/fund-8/README.md)
     * [ABC of Governance](transactions/fund-8/open-source-training.md)
     * [Automate, Educate, Communicate](transactions/fund-8/distributed-auditability.md)
+    * [Catalyst Training and Automation Treasury Wallet](transactions/fund-8/catalyst-training-and-automation-treasury-wallet.md)
