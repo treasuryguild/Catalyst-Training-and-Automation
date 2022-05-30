@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Training and Automation](README.md)
+* [Catalyst Training and Automation](README.md)
 * [Balances](balances.md)
 * [Transactions](transactions/README.md)
   * [Fund 6](transactions/fund-6/README.md)
