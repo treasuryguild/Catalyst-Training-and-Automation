@@ -1,8 +1,8 @@
 ---
-description: https://cardano.ideascale.com/c/idea/368678
+description: https://cardano.ideascale.com/c/idea/398140
 ---
 
-# Open Source Training
+# ABC of Governance
 
 
 

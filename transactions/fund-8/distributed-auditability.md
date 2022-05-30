@@ -2,7 +2,7 @@
 description: https://cardano.ideascale.com/c/idea/366707
 ---
 
-# Distributed Auditability
+# Automate, Educate, Communicate
 
 | Date | Name | Budget item | Transaction link | ADA out | ADA in | Balance |
 | ---- | ---- | :---------: | :--------------: | :-----: | :----: | :-----: |
