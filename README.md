@@ -1,4 +1,4 @@
-# Training and Automation
+# Catalyst Training and Automation
 
 - [Transaction Forms](https://github.com/treasuryguild/Training-and-Automation/issues/new/choose)
 
