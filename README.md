@@ -1,6 +1,6 @@
 # Catalyst Training and Automation
 
-- [Transaction Forms](https://github.com/treasuryguild/Training-and-Automation/issues/new/choose)
+- [Treasury System v3](https://treasuryguild.github.io/treasury-v3/)
 
 Fund 6 funded proposals (Ideascale links)
 
